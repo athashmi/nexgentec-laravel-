@@ -1,0 +1,10 @@
+// @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+@import "resources/assets/css/bootstrap.min";
+@import "resources/assets/css/sb-admin";
+@import "resources/assets/css/plugins/morris";
+@import "resources/assets/css/font-awesome.min";
+@import "resources/assets/css/bootstrap-multiselect";
+@import "resources/assets/css/datepicker";
+@import "resources/assets/css/fullcalendar";
+
